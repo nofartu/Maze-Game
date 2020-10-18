@@ -1,5 +1,5 @@
 # Maze-Game
-
+ 
 This project has been developed as part of  Advanced Topics in Programming course, which took place during the spring semester of 2018 in Ben Gurion University. 
 
 A maze game that creates random mazes.
