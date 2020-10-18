@@ -15,7 +15,7 @@ Event Driven and Multi threaded programing
 *The algorithms for creating and solving the maze can be found in ATPProjectJAR.jar file - under resources folder
 
 
-##How to play
+## How to play
 In order to play the game download and open the jar.
 
 open with cmd using the follwing command : java -jar ATP-Project-PartC.jar
