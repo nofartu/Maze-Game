@@ -1,0 +1,48 @@
+.root{
+    -fx-background-color: bisque;
+}
+
+Button {
+    -fx-text-fill: white;
+    -fx-font-family: "century gothic";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#FFDAB9, #CD853F);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+Button:hover{
+    -fx-background-color: linear-gradient(#f2c1c7, #f2c1c7);
+    /*-fx-background-insets: 0 0 -1 0, 0, 1, 2;*/
+    /*-fx-background-radius: 3px, 3px, 2px, 1px;*/
+    /*-fx-padding: 0.333333em 0.666667em 0.333333em 0.666667em; !* 4 8 4 8 *!*/
+    -fx-text-fill: #604020;
+    -fx-alignment: CENTER;
+    -fx-content-display: LEFT;
+    -fx-font-family: "century gothic";
+    -fx-font-weight: bold;
+}
+
+ /*menu bar stuff!!*/
+
+.menu-bar{
+    -fx-background-color: #cc9966;
+    -fx-border-color:  #bf8040;
+    -fx-border-width: 2
+
+}
+
+.menu-bar .label {
+    -fx-font-size: 20 pt;
+    -fx-font-family: "century gothic";
+    -fx-text-fill: #dedede;
+
+}
+
+.menu:hover {
+    -fx-background-color: #bc784e;
+}
+
+.menu .label{
+    -fx-text-fill: black;
+}
+

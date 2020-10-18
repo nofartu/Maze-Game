@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="378.0" prefWidth="750.0" style="-fx-background-color: #e6e6ff;" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.AboutController">
+   <children>
+      <Text layoutX="22.0" layoutY="48.0" strokeType="OUTSIDE" strokeWidth="0.0" text="About">
+         <font>
+            <Font name="Berlin Sans FB" size="38.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="105.0" strokeType="OUTSIDE" strokeWidth="0.0" text="We are Nofar Turteltaub and Maya Markovich, second year students of Information System and Softwere engineering." wrappingWidth="663.7705078125">
+         <font>
+            <Font name="Berlin Sans FB" size="31.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="242.0" strokeType="OUTSIDE" strokeWidth="0.0" text="This Maze project based on few algorithms:">
+         <font>
+            <Font name="Berlin Sans FB" size="31.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="281.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The generating part uses the Prim algorithm">
+         <font>
+            <Font name="Berlin Sans FB" size="31.0" />
+         </font>
+      </Text>
+      <Text layoutX="35.0" layoutY="318.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The solving part uses Bfs, DFS and BestFS">
+         <font>
+            <Font name="Berlin Sans FB" size="31.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
