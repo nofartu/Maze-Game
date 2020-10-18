@@ -17,10 +17,9 @@ Event Driven and Multi threaded programing
 
 ## How to play
 In order to play the game download and open the jar.
+Open with cmd using the follwing command : java -jar ATP-Project-PartC.jar
 
-open with cmd using the follwing command : java -jar ATP-Project-PartC.jar
-
-we recommand to choose size 30 * 30
+we recommand to choose board size 30 * 30
 
 You can move with the arrows keys around the maze, try to get to the price.
 
